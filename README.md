@@ -1,2 +1,2 @@
 # About Me
-still in progress...
+- 🔭 I’m currently working on this page. 
