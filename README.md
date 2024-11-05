@@ -2,7 +2,7 @@
 ### <p align="center">  **Passionate Backend Developer**  </p>
 I'm a Backend Developer and recent Computer Science graduate based in Alexandria, Egypt. With a strong foundation in server-side technologies, I enjoy building scalable applications and exploring new ways to create efficient backend solutions.
 
-- 🔭 I’m currently working on Diving deeper into backend development using roadmap.sh to enhance my skills and knowledge. 
+- 🔭 I’m currently working on Diving deeper into backend development using [Roadmap.sh](https://roadmap.sh/projects/task-tracker) to enhance my skills and knowledge. 
 - 🌱 I’m currently learning Machine Learning and Data Science to broaden my technical expertise 
 - 👯 I’m looking to collaborate on productive project involes ai. 
 - ⚡ Fun fact: no bitches 
